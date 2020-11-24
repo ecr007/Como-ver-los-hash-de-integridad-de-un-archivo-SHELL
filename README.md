@@ -1,0 +1,1 @@
+# Como-ver-los-hash-de-integridad-de-un-archivo-SHELL
