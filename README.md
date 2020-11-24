@@ -1,4 +1,4 @@
-# Como-ver-los-hash-de-integridad-de-un-archivo-SHELL
+# Como ver los hash de integridad de un archivo SHELL
 
 ```
 cat FILENAME.js | openssl dgst -sha384 -binary | openssl base64 -A
